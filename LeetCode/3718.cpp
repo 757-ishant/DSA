@@ -16,7 +16,7 @@ int missingMultiple(vector<int>& nums, int k) {
 }
 
 int main() {
-    vector<int> nums = {2, 4, 6};
+    vector<int> nums = {2, 4, 6,8};
     int k = 2;
 
     cout << missingMultiple(nums, k) << endl;
