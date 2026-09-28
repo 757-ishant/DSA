@@ -1,3 +1,4 @@
+// new ques
 #include <iostream>
 #include <string>
 #include <algorithm>
